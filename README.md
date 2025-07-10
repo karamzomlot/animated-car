@@ -5,7 +5,7 @@ Using Animation in CSS style a a car is moving
 
  ## Visit Site :boom:
  
- **[Click here](https://karam-zomlut.github.io/animated-car/)**
+ **[Click here](https://karamzomlot.github.io/animated-car/)**
 
 
 ## Used Skills: :exclamation:
